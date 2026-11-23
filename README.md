@@ -1,4 +1,4 @@
-# estudos-backend 🐍
+# Estudos-backend 🐍
 
 Registro da minha transição de desenvolvedor frontend para backend com Python. Aqui ficam os exercícios, projetos e anotações de um plano de estudos de 16 semanas, do básico da linguagem até uma API em produção.
 
